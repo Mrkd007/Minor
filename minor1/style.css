@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+#login-form {
+	margin:5% auto;
+	max-width:500px;
+}
+/* home page */
+#wrapper{
+	padding-top:50px;
+}
+
+nav 
+{
+	padding: 10px;
+}
+
+textarea, iframe{
+      border: 4px solid #ddd;
+      height: 640px;
+      width: 98%;
+      padding: 5px;
+      margin-left: 1%;
+      margin-right: 0px;
+      resize: none;
+    }
+
+strong {
+	margin-left: 1%;
+}
